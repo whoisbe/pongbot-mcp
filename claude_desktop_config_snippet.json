@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "pongbot": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--project",
+        "/Users/yourname/projects/pongbot-mcp",
+        "python",
+        "-m",
+        "pongbot_mcp"
+      ]
+    }
+  }
+}
